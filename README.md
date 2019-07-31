@@ -1,4 +1,4 @@
-# Hands On Financial Modeling with Microsoft Excel 2019
+# Hands-On Financial Modeling with Microsoft Excel 2019
 
 <a href="https://www.packtpub.com/data/hands-on-financial-modeling-with-microsoft-excel-2019"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781789534627-original.png" alt="Hands-On Financial Modeling with Microsoft Excel 2019" height="256px" align="right"></a>
 
