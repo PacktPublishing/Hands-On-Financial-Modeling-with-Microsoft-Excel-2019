@@ -13,13 +13,13 @@ This book will help you understand financial modeling concepts using Excel, and 
 
 By the end of this book, you will have examined the data from various use cases, and you will have the skills you need to build financial models to extract the information required to make informed business decisions.
 This book covers the following exciting features:
-Identify the growth drivers derived from processing historical data in Excel
-Use discounted cash flow (DCF) for efficient investment analysis
-Build a financial model by projecting balance sheets, profit, and loss
-Apply a Monte Carlo simulation to derive key assumptions for your financial model
-Prepare detailed asset and debt schedule models in Excel
-Discover the latest and advanced features of Excel 2019
-Calculate profitability ratios using various profit parameters
+* Identify the growth drivers derived from processing historical data in Excel
+* Use discounted cash flow (DCF) for efficient investment analysis
+* Build a financial model by projecting balance sheets, profit, and loss
+* Apply a Monte Carlo simulation to derive key assumptions for your financial model
+* Prepare detailed asset and debt schedule models in Excel
+* Discover the latest and advanced features of Excel 2019
+* Calculate profitability ratios using various profit parameters
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789534623) today!
 
